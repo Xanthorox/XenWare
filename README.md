@@ -1,3 +1,5 @@
+# First AI generated Ransomware which bypasses all anti-virus , Heavy Powerfull Encryption , Made by Xanthorox
+
 # XenWare
 
 high-impact ransomware designed for speed, deep system penetration, and cryptographically secure file locking, making recovery without the operator's unique private key computationally infeasible.
