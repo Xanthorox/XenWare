@@ -46,6 +46,10 @@ https://github.com/user-attachments/assets/827a13eb-359f-4507-9f3a-ee180c4912ed
 
 # How Xenware looks like on Action Bypassing defender
 
+It Bypassed almost all anti-virus and runtime scanners but now its open source means it won't be undetectable anymore (RIP)
+
+I made this to prove one point what AI can DO
+
 https://github.com/user-attachments/assets/5f4925da-5bd1-4ae3-8f36-632287ea1b69
 
 
